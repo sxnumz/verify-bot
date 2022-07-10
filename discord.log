@@ -1,0 +1,8 @@
+2022-07-11 02:47:15,280:WARNING:nextcord.client: PyNaCl is not installed, voice will NOT be supported
+2022-07-11 02:47:15,283:DEBUG:nextcord.client: on_connect has successfully been registered as an event
+2022-07-11 02:47:15,283:DEBUG:nextcord.client: on_ready has successfully been registered as an event
+2022-07-11 02:47:15,285:INFO:nextcord.client: logging in using static token
+2022-07-11 02:47:15,789:DEBUG:nextcord.http: GET https://discord.com/api/v10/users/@me with None has returned 401
+2022-07-11 02:47:15,790:DEBUG:nextcord.client: Dispatching event close
+2022-07-11 02:47:15,791:INFO:nextcord.client: Cleaning up tasks.
+2022-07-11 02:47:15,791:INFO:nextcord.client: Closing the event loop.
