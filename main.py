@@ -19,7 +19,7 @@ class Verify(View):
 
 logger = getLogger("nextcord")
 logger.setLevel(DEBUG)
-handler = FileHandler(filename="log/discord.log", encoding="utf-8", mode="w")
+handler = FileHandler(filename="discord.log", encoding="utf-8", mode="w")
 handler.setFormatter(Formatter("%(asctime)s:%(levelname)s:%(name)s: %(message)s"))
 logger.addHandler(handler)
 
