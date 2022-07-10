@@ -63,4 +63,4 @@ async def on_ready():
 
 
 if __name__ == "__main__":
-    React.run(config.Bot_token, reconnect=True)
+    React.run(config.OTg2NjgwNzI5NDM2MDQ1MzMy.GSsb4q.X4D3DOjQCvd-e6Hx2jMiWy94CTkjZgfT5v-ZrM, reconnect=True)
